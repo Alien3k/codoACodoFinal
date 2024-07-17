@@ -1,0 +1,10 @@
+entidades\Pelicula.class
+controladores\GestionUsuariosServlet.class
+controladores\RegistroServlet.class
+conexion\ConexionDB.class
+controladores\LoginServlet.class
+dao\PeliculaDAO.class
+dao\UsuarioServicio.class
+dao\UserDao.class
+controladores\PeliculaServlet.class
+entidades\Usuario.class
